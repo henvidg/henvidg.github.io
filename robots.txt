@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://henvidg.github.io/sitemap.html.gz
+Sitemap: https://henvidg.github.io/app/sitemap.html.gz
+Sitemap: https://henvidg.github.io/assets/sitemap.html.gz
+Sitemap: https://henvidg.github.io/css/sitemap.html.gz
+Sitemap: https://henvidg.github.io/includes/sitemap.html.gz
+Sitemap: https://henvidg.github.io/item/sitemap.html.gz
+Sitemap: https://henvidg.github.io/src/sitemap.html.gz
